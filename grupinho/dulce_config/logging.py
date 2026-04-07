@@ -33,7 +33,7 @@ def setup_logging(log_level: str = "INFO") -> None:
         cache_logger_on_first_use=True,
     )
 
-def setup_file_logging(command_name: str, log_dir: str = "logs") -> Path:
+def setup_file_logging(command_name: str, log_dir: str = "vera_logs") -> Path:
     """Redireciona logs para arquivo com timestamp."""
 
     log_path = Path(log_dir)
