@@ -1,5 +1,5 @@
 [project]
-name = "tias-do-zap"
+name = "grupinho"
 version = "0.6.0"
 description = "Lakehouse das Tias do Zap pra investigar gastos públicos de parlamentares."
 readme = "README.md"
@@ -29,7 +29,7 @@ dev = [
 ]
 
 [project.scripts]
-argus = "grupinho.fatima_cli.cida:app"
+Tias_do_Zap = "grupinho.fatima_cli.cida:app"
 
 [build-system]
 requires = ["hatchling"]
