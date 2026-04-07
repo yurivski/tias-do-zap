@@ -29,7 +29,7 @@ dev = [
 ]
 
 [project.scripts]
-argus = "grupinho.cli.cida:app"
+argus = "grupinho.fatima_cli.cida:app"
 
 [build-system]
 requires = ["hatchling"]
