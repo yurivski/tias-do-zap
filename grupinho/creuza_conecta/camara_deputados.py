@@ -9,10 +9,6 @@ from pathlib import Path
 from typing import Any
 
 class CamaraDeputadosConnector(BaseConnector):
-    """
-    Conector para dados do registro de parlamentares da API de dados
-    da Câmara dos Deputados.
-    """
 
     @property
     def name(self) -> str:
