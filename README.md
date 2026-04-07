@@ -6,7 +6,7 @@ Grupinho Open Source de inteligência e auditoria para dados abertos do Brasil.
 
 <br>
 
-As Tias do Zap ingerem dados de APIs públicas brasileiras, transformam em um lakehouse organizado, e detectam anomalias em gastos parlamentares usando regras determinísticas, sem machine learning. Cada alerta é verificável com dados públicos.
+As Tias do Zap ingerem dados de APIs públicas brasileiras, transformam em um lakehouse organizado, e detectam anomalias em gastos parlamentares usando regras determinísticas. Cada alerta é verificável com dados públicos.
 </div>
 
 ---
