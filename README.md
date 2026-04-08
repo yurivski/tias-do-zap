@@ -1,8 +1,8 @@
 <div align="center">
 
-<h1><img src="img/tias_do_zap.png" alt="Tias do Zap" width="120" align="absmiddle">&nbsp;&nbsp;</h1>
+<h1><img src="img/tias_do_zap.png" alt="Tias do Zap" width="170" align="absmiddle">&nbsp;&nbsp;</h1>
 
-### Grupinho Open Source de inteligência e auditoria para dados abertos de parlamentares brasileiros.  
+#### Grupinho Open Source de inteligência e auditoria para dados abertos de parlamentares brasileiros.  
 
 <br>
 
