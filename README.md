@@ -10,7 +10,7 @@ As Tias do Zap ingerem dados de APIs públicas brasileiras, transformam em um la
 
 </div>
 
-> [!NOTE]
+> [!NOTE] 
 > **Projeto meme do** [**Argus**](https://codeberg.org/yurivski/argus)
 
 ---
