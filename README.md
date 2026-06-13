@@ -7,7 +7,11 @@
 <br>
 
 As Tias do Zap ingerem dados de APIs públicas brasileiras, transformam em um lakehouse organizado, e detectam anomalias em gastos parlamentares usando regras determinísticas. Cada alerta é verificável com dados públicos.
+
 </div>
+
+> [!NOTE]
+> **Projeto meme do** [**Argus**](https://codeberg.org/yurivski/argus)
 
 ---
 
